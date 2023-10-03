@@ -4,12 +4,12 @@ getgenv().kitty = {
             ['Enabled'] = true,
             ['Keybind'] = "P",
             ['Notifications'] = true,
-            ['Prediction'] = 0.14,
+            ['Prediction'] = 0.2,
             ['AutoPrediction'] = true,
             ['HitChance'] = 400
         },
         FOV = {
-            ['Keybind'] = "M",
+            ['Keybind'] = "nil",
             ['Notifications'] = true,
             ['Visible'] = true,
             ['FOV'] = 70
@@ -24,8 +24,8 @@ getgenv().kitty = {
 getgenv().kittycock = {
     Tracer = {
         Main = {
-            ['Enabled'] = true,
-            ['Keybind'] = "q",
+            ['Enabled'] = false,
+            ['Keybind'] = "nil",
             ['Radius'] = 35,
             ['Part'] = "UpperTorso",
             ['FirstPerson'] = true,
@@ -44,8 +44,8 @@ getgenv().kittycock = {
 }
 getgenv().Misc = {
     Macro = {
-        ['Enabled'] = true,
-        ['Toggle'] = "x",
+        ['Enabled'] = false,
+        ['Toggle'] = "nil",
         ['Speed'] = "0.85",
     },
     Desync = {
