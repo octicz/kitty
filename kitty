@@ -4,7 +4,7 @@ getgenv().kitty = {
             ['Enabled'] = true,
             ['Keybind'] = "P",
             ['Notifications'] = true,
-            ['Prediction'] = 0.252985u124318392,
+            ['Prediction'] = 0.252985124318392,
             ['AutoPrediction'] = true,
             ['HitChance'] = 400
         },
