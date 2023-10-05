@@ -4,7 +4,7 @@ getgenv().kitty = {
             ['Enabled'] = true,
             ['Keybind'] = "P",
             ['Notifications'] = true,
-            ['Prediction'] = 0.2,
+            ['Prediction'] = 0.24,
             ['AutoPrediction'] = true,
             ['HitChance'] = 400
         },
@@ -12,7 +12,7 @@ getgenv().kitty = {
             ['Keybind'] = "nil",
             ['Notifications'] = true,
             ['Visible'] = true,
-            ['FOV'] = 32
+            ['FOV'] = 20
         },
         Resolver = {
             ['Enabled'] = true,
